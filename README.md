@@ -4,7 +4,7 @@ This repository contains 5 digital forensic experiments with documentation and s
 
 ## Experiments
 1. [Experiment 1: FTK Imager](exp1-FTK-Imager/README.md)
-2. Experiment 2: (tool name here)
+2. [Experiment 2: TestDisk](exp2-TestDisk/README.md)
 3. Experiment 3: (tool name here)
 4. Experiment 4: (tool name here)
 5. Experiment 5: (tool name here)
