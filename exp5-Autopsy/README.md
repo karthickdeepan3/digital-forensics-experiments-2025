@@ -76,5 +76,5 @@ Successfully created and analyzed a forensic case using **Autopsy 4.22.1**, incl
 
 ---
 📂 Portfolio Files  
-- 📄 [Experiment Report (PDF)](Ex.No.5-Autospy.pdf)  
+ -  📄 [Experiment Report (PDF)](Ex.No.5-Autopsy.pdf)    
  - 🖼️ [Screenshots](screenshots/)  
