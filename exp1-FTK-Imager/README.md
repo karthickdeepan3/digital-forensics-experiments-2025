@@ -92,5 +92,5 @@ It allows investigators to:
 - Thus, evidence acquisition using **FTK Imager** was carried out successfully.
   
 ## 📂 Portfolio Files  
-- 📄 [Experiment Report (PDF)](Ex.No.5-Autopsy.pdf)    
+- 📄 [Experiment Report (PDF)](Ex.No.1-FTK-Imager.pdf)    
 - 🖼️ [Screenshots](screenshots/)  
