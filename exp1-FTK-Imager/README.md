@@ -89,4 +89,8 @@ It allows investigators to:
 - Successfully acquired **volatile memory** (RAM + pagefile) as `.mem` and `.ad1` files.  
 - Successfully created **non-volatile memory disk image** in selected format.  
 - Integrity was verified through **hash value confirmation**.  
-- Thus, evidence acquisition using **FTK Imager** was carried out successfully.  
+- Thus, evidence acquisition using **FTK Imager** was carried out successfully.
+  
+## 📂 Portfolio Files  
+- 📄 [Experiment Report (PDF)](Ex.No.5-Autopsy.pdf)    
+- 🖼️ [Screenshots](screenshots/)  
