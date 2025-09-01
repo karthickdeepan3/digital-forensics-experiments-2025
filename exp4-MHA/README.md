@@ -37,15 +37,18 @@ To trace an email's origin and verify its authenticity by examining its header f
 - Demonstrates the importance of checking **all three standards (SPF, DKIM, DMARC)** for detecting spoofing attempts.  
 
 ---
-| **S.No** | **Step / Description**                       | **Screenshot Filename**            |
-| -------- | -------------------------------------------- | ---------------------------------- |
-| 1        | Viewing the original email in Gmail          | `Screenshot 2025-09-01 190154.png` |
-| 2        | Copying the raw email header                 | `Screenshot 2025-09-01 190224.png` |
-| 3        | Pasting header into MXToolbox analyzer       | `Screenshot 2025-09-01 190439.png` |
-| 4        | Relay path analysis result                   | `Screenshot 2025-09-01 190530.png` |
-| 5        | SPF and DKIM authentication details          | `Screenshot 2025-09-01 190554.png` |
-| 6        | Detailed DKIM & DMARC verification           | `Screenshot 2025-09-01 190646.png` |
-| 7        | Final email authenticity & compliance result | `Screenshot 2025-09-01 190702.png` |
+## 🖼️ Screenshot Gallery
+| # | Screenshot | Caption |
+|---|------------|---------|
+| 1 | ![Original Email](screenshots/Screenshot%202025-09-01%20190154.png) | **Original email in Gmail** (LinkedIn notification mail) |
+| 2 | ![Raw Header](screenshots/Screenshot%202025-09-01%20190224.png) | **Viewing raw email header** from Gmail → “Show original” |
+| 3 | ![Header Analyzer](screenshots/Screenshot%202025-09-01%20190439.png) | **Pasting header into MXToolbox** Email Header Analyzer |
+| 4 | ![Relay Path](screenshots/Screenshot%202025-09-01%20190530.png) | **Relay path analysis** (LinkedIn → Google mail servers) |
+| 5 | ![SPF & DKIM](screenshots/Screenshot%202025-09-01%20190554.png) | **SPF & DKIM authentication details** extracted |
+| 6 | ![DMARC](screenshots/Screenshot%202025-09-01%20190646.png) | **Detailed DKIM + DMARC verification** results |
+| 7 | ![Final Summary](screenshots/Screenshot%202025-09-01%20190702.png) | **Final email compliance summary** (SPF, DKIM, DMARC all ✅) |
+
+
 ## 📂 Portfolio Files
 - 📄 [Experiment Report (PDF)](Ex.No.4-MHA.pdf)  
  - 🖼️ [All Screenshots](screenshots/) 
