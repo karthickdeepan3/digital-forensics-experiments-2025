@@ -76,6 +76,6 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 ## 📌 Usage  
 Clone this repo to explore experiments:  
 ```bash
-git clone https://github.com/karthickdeepan3/digital-forensics-experiments-2025.git
+git clone https://github.com/karthickdeepan/digital-forensics-experiments-2025.git
 cd digital-forensics-experiments-2025
 
