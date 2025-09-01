@@ -1,11 +1,5 @@
 # 📧 Experiment 4: Mail Header Analysis (MHA)
 
-**Aim:**  
-The aim is to use a Mail Header Analyzer (MHA) to trace an email's origin and verify its authenticity by examining its header for signs of spoofing.
-
----
-
-## 📝 Procedure
 
 ### Step 1: Get the Email Header
 - Open the email and copy the **full raw header**.  
