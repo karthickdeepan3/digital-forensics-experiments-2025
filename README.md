@@ -67,7 +67,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 ## ✅ Features  
 ✔️ Well-structured experiment folders  
 ✔️ Each experiment includes:  
-- Official **Lab Report** (DOCX & PDF)  
+- Official **Lab Report** ( PDF)  
 - **Step-by-step README.md** guide  
 - **Screenshots gallery** with captions  
 
