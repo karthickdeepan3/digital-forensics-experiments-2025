@@ -56,10 +56,36 @@ To use **Process Explorer** (from Microsoft Sysinternals) to identify, analyze, 
 ---
 
 ### Example Output (Process Analysis)
-```plaintext
+
 Process Name: randomname123.exe  
 Path: C:\Users\AppData\Local\Temp\randomname123.exe  
 CPU Usage: 45%  
 Network Connections: Active to unknown IP (104.27.144.23)  
 Signature: Invalid  
 Verdict: Malicious – Terminate Immediately
+---
+
+## ✅ Conclusion  
+- Successfully used **Process Explorer** to monitor and analyze system processes.  
+- Identified suspicious executables by examining their **digital signatures**, **CPU usage**, and **memory behavior**.  
+- Investigated unknown network connections through the **TCP/IP tab** to detect possible external communication.  
+- Demonstrated the importance of process monitoring in **malware detection and forensic investigation**.  
+- Thus, the experiment to identify suspicious processes using **Process Explorer** was successfully completed.
+
+---
+
+## 🖼️ Screenshot Gallery  
+
+| # | Screenshot | Caption |
+|---|------------|---------|
+| 1 | <img src="screenshots/Screenshot%202025-10-21%20163459.png" width="450"/> | **Process Explorer Launched** – Main interface displaying real-time system process hierarchy. |
+| 2 | <img src="screenshots/Screenshot%202025-10-21%20163545.png" width="450"/> | **Highlighted Processes** – Different color codes representing active, suspended, and terminated processes. |
+| 3 | <img src="screenshots/Screenshot%202025-10-21%20163918.png" width="450"/> | **Process Properties Window** – Inspecting executable path, description, and verifying digital signature details. |
+| 4 | <img src="screenshots/Screenshot%202025-10-21%20164556.png" width="450"/> | **Network Activity Analysis** – TCP/IP tab showing live network connections associated with a suspicious process. |
+| 5 | <img src="screenshots/Screenshot%202025-10-21%20165213.png" width="450"/> | **Process Termination** – Malicious process identified and terminated to ensure system integrity. |
+
+---
+
+## 📂 Portfolio Files  
+- 📄 [Experiment Report (PDF)](Ex.No.9-ProcessExplorer.pdf)  
+- 🖼️ [Screenshots Folder](screenshots/)
