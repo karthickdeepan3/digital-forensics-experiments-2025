@@ -9,7 +9,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 
 | # | Experiment | Tool Used | Focus Area | Link |
 |---|-------------|------------|-------------|------|
-| 1 | **FTK Imager** | FTK Imager | Disk imaging & evidence acquisition | [📂 Open](exp1-FTK-Imager/) |
+| 1 | **FTK Imager** | FTK Imager | Disk imaging & evidence acquisition | [📂 Open](exp1-ftk-imager/) |
 | 2 | **TestDisk** | TestDisk | Partition & file recovery | [📂 Open](exp2-TestDisk/) |
 | 3 | **Wireshark** | Wireshark | Network traffic capture & analysis | [📂 Open](exp3-Wireshark/) |
 | 4 | **Mail Header Analysis (MHA)** | MXToolbox / Gmail | Email origin & spoof detection | [📂 Open](exp4-MHA/) |
