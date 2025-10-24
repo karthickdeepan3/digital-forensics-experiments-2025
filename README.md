@@ -18,7 +18,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 | 7 | **AFLogical OSE Extraction** | AFLogical OSE | Mobile (Android) data extraction | [📂 Open](exp07-android-forensics-OSE/) |
 | 8 | **Steg-Expose Detection** | Steg-Expose | Hidden data detection in images | [📂 Open](exp08-steganography/) |
 | 9 | **Process Explorer Investigation** | Process Explorer | Suspicious process & malware identification | [📂 Open](exp09-processexplorer/) |
-| 10 | **Ghidra Malware Analysis** | Ghidra | Disassembly & reverse engineering | [📂 Open](exp10-ghidra/) |
+| 10 | **Ghidra Malware Analysis** | Ghidra | Disassembly & reverse engineering | [📂 Open](exp10-Ghidra/) |
 
 ---
 
