@@ -29,7 +29,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Perform file system analysis  
 - Generate reports  
 
-🔗 [View Experiment →](exp1-FTK-Imager/)  
+🔗 [View Experiment →](exp01-ftk-imager/)  
 
 ---
 
@@ -38,7 +38,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Restore deleted files  
 - Verify recovered data  
 
-🔗 [View Experiment →](exp2-TestDisk/)  
+🔗 [View Experiment →](exp02-testdisk/)  
 
 ---
 
@@ -47,7 +47,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Filter suspicious packets  
 - Identify leaked credentials  
 
-🔗 [View Experiment →](exp3-Wireshark/)  
+🔗 [View Experiment →](exp03-wireshark/)  
 
 ---
 
@@ -56,7 +56,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Verify SPF, DKIM, and DMARC  
 - Detect spoofing & phishing attempts  
 
-🔗 [View Experiment →](exp4-MHA/)  
+🔗 [View Experiment →](exp04-mha/)  
 
 ---
 
@@ -65,7 +65,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Analyze deleted files and browser history  
 - Generate forensic case reports  
 
-🔗 [View Experiment →](exp5-Autopsy/)  
+🔗 [View Experiment →](exp05-autopsy/)  
 
 ---
 
@@ -74,7 +74,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Analyze partitions and deleted files  
 - Recover and verify evidence  
 
-🔗 [View Experiment →](exp6-SleuthKit/)  
+🔗 [View Experiment →](exp06-sleuthkit/)  
 
 ---
 
@@ -83,7 +83,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Generate forensic reports in CSV/XML formats  
 - Maintain integrity of mobile evidence  
 
-🔗 [View Experiment →](exp7-AFLogical-OSE/)  
+🔗 [View Experiment →](exp07-android-forensics-OSE/)  
 
 ---
 
@@ -92,7 +92,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Analyze image files for embedded messages  
 - Identify potential data exfiltration attempts  
 
-🔗 [View Experiment →](exp8-StegExpose/)  
+🔗 [View Experiment →](exp08-steganography/)  
 
 ---
 
@@ -101,7 +101,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Identify suspicious executables or injected code  
 - Capture process memory dumps for analysis  
 
-🔗 [View Experiment →](exp9-ProcessExplorer/)  
+🔗 [View Experiment →](exp9-processexplorer/)  
 
 ---
 
@@ -123,8 +123,4 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 
 ---
 
-## 📌 Usage  
-Clone this repo to explore experiments:  
-```bash
-git clone https://github.com/karthickdeepan3/digital-forensics-experiments-2025.git
-cd digital-forensics-experiments-2025
+
