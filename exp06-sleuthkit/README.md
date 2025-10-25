@@ -127,27 +127,11 @@ C:\Users\krthc\Downloads\sleuthkit-4.14.0-win32\sleuthkit-4.14.0-win32\bin
 ---
 
 ## ✅ Result
-The `.E01` forensic image was successfully mounted as a virtual disk (E:) and analyzed using The Sleuth Kit.  
+The `.E01 E02` forensic image was successfully mounted as a virtual disk (E:) and analyzed using The Sleuth Kit.  
 File system details, partitions, and deleted files were extracted and recovered, demonstrating digital evidence analysis using open-source forensic tools.
 
 ---
 
 
 
-## 👨‍💻 Author Information
-**Name:** Karthick Deepan K  
-**Course:** B.Tech – Computer Science (Cyber Security)  
-**Institution:** Kalasalingam Academy of Research and Education  
-**Experiment:** Ex. No. 6 – Sleuth Kit Forensic Analysis  
-**Date:** October 2025  
-**OS Used:** Windows 11 
-**Tools:** Sleuth Kit v4.14.0, OSFMount  
 
----
-
-## 🏁 Summary
-Through this experiment, the forensic image `4Dell Latitude CPi.E01` was successfully analyzed.  
-TSK tools were used to extract file system metadata, view partition tables, and recover deleted evidence.  
-This demonstrates the importance of Sleuth Kit in digital investigations for extracting and preserving digital evidence efficiently and reliably.
-
----
