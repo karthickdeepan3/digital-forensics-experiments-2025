@@ -132,15 +132,7 @@ File system details, partitions, and deleted files were extracted and recovered,
 
 ---
 
-## 🧾 Viva Questions
 
-1. What is the purpose of Sleuth Kit in digital forensics?  
-2. What does an inode represent in a file system?  
-3. What is the difference between `.E01` and `.raw` forensic images?  
-4. Why must forensic images be analyzed in **read-only mode**?  
-5. Which command in TSK is used to recover deleted files?
-
----
 
 ## 👨‍💻 Author Information
 **Name:** Karthick Deepan K  
