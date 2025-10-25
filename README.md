@@ -15,7 +15,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 | 4 | **Mail Header Analysis (MHA)** | MXToolbox / Gmail | Email origin & spoof detection | [📂 Open](exp04-mha/) |
 | 5 | **Autopsy** | Autopsy | File system & browser forensic analysis | [📂 Open](exp05-autopsy/) |
 | 6 | **Sleuth Kit Analysis** | Sleuth Kit | Disk evidence & file system investigation | [📂 Open](exp06-sleuthkit/) |
-| 7 | **AFLogical OSE Extraction** | AFLogical OSE | Mobile (Android) data extraction | [📂 Open](exp07-android-forensics-OSE/) |
+| 7 | **AFLogical OSE Extraction** | AFLogical OSE | Mobile (Android) data extraction | [📂 Open](exp07-android-forensics/) |
 | 8 | **Steg-Expose Detection** | Steg-Expose | Hidden data detection in images | [📂 Open](exp08-steganography/) |
 | 9 | **Process Explorer Investigation** | Process Explorer | Suspicious process & malware identification | [📂 Open](exp09-processexplorer/) |
 | 10 | **Ghidra Malware Analysis** | Ghidra | Disassembly & reverse engineering | [📂 Open](exp10-Ghidra/) |
@@ -83,7 +83,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Generate forensic reports in CSV/XML formats  
 - Maintain integrity of mobile evidence  
 
-🔗 [View Experiment →](exp07-android-forensics-OSE/)  
+🔗 [View Experiment →](exp07-android-forensics/)  
 
 ---
 
