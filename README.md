@@ -101,7 +101,7 @@ Each experiment demonstrates the use of industry-standard forensic tools for inv
 - Identify suspicious executables or injected code  
 - Capture process memory dumps for analysis  
 
-🔗 [View Experiment →](exp9-processexplorer/)  
+🔗 [View Experiment →](exp09-processexplorer/)  
 
 ---
 
